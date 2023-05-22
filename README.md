@@ -1,1 +1,2 @@
-# UE_fil_rouge_2023_24
+# UE5_FilRouge
+"Fil Rouge" project repository. 3D platformer. Assets are from StackOBot project. Work in progress.
